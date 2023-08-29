@@ -14,8 +14,8 @@ authors:
     given-names: Oksana
   - family-names: Palmer
     given-names: Abraham
-title: "Palmer Lab High Coverage WGS Genotyping Pipeline"
+title: "Palmer Lab High Coverage WGS GATK Genotyping Pipeline"
 version: 1.0.0
 doi: 10.5281/zenodo.6584834
 date-released: 2022-05-26
-url: https://github.com/Palmer-Lab-UCSD/High-Coverage-WGS-Genotyping-Pipeline
+url: https://github.com/Palmer-Lab-UCSD/High-Coverage-WGS-GATK-Genotyping-Pipeline
